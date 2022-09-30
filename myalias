@@ -1,0 +1,16 @@
+
+eval "$(ssh-agent -s)"
+clear
+
+alias cepik="git cherry-pick"
+alias clone="git clone"
+alias pushme="git push me"
+alias pushto="git push"
+alias pd="go-pd"
+alias picon="git cherry-pick --continue"
+alias picstat="git status"
+alias piclog="git log"
+alias picadd="git add"
+alias picall="git add ."
+alias sme="ssh-add ~/.ssh/mo"
+alias wet="wetransfer wet"
